@@ -1,0 +1,25 @@
+.bigbox{
+    width: 950px;
+    height: 550px;
+    border: 10px solid rgb(207, 63, 176);
+}
+.box{
+    width: 400px;
+    height: 400px;
+    border:5px dashed  rgb(176, 230, 53);
+    text-align: center;
+    font-family: cursive;
+    font-size: x-large;
+}
+#leftbox
+{
+    float:left;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#rightbox
+{
+    float:right;
+    margin-right: 50px;
+    margin-top: 50px;
+}
